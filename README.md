@@ -1,15 +1,13 @@
-# 4AD09
-Sat Jan 12 02:36:36 UTC 2019
-
-当前版本 : v1
+# 4AD09 Linux
 
 
-平台 : ARM64
-支持硬件 : 树梅派3b , 树梅派3b+
-镜像下载地址: 
-工具链下载地址(DEV):
 
+## 4AD09P
 
-支持的游戏: 
+* 使用pkgsrc包管理并提供binary包
 
-ONS   onscripter-jh
+* 提供4.8 - 8.2所有Gcc工具链
+
+* 维护一个下游pkgsrc
+
+* 使用sysv 
