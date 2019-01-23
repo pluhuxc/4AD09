@@ -2,8 +2,6 @@
 
 当前版本 1.2
 
-## 4AD09P
-
 #实现目标:
 
 * 使用pkgsrc包管理并提供binary包
@@ -38,13 +36,21 @@
 
 ## 包仓库:
 
-百度云:  链接: https://pan.baidu.com/s/157sLDbNeT0lgrH-rxuWJIA 提取码: 5cjm 
+链接: https://pan.baidu.com/s/157sLDbNeT0lgrH-rxuWJIA 提取码: 5cjm 
+
+## rootfs
+
+链接: https://pan.baidu.com/s/186kGT-peOhyprZISuv10wA 提取码: 1f6a 
 
 
 ## TODO:
 
+1.2 > 1.3
+
 * 启动时的 initrd
+
+* 安装盘
 
 * 切换openssl 1.1.0 到 1.0.0
 
-* 安装盘
+* 上传维护的下游pkgsrc
