@@ -31,6 +31,11 @@
 
 342
 
+
+## bootstrap:
+
+链接: https://pan.baidu.com/s/1dXxmO2W_TAVEfPtPF3746Q 提取码: 7q1t 
+
 ## 包仓库:
 
 百度云:  链接: https://pan.baidu.com/s/157sLDbNeT0lgrH-rxuWJIA 提取码: 5cjm 
@@ -38,10 +43,8 @@
 
 ## TODO:
 
-启动时的 initrd
-切换openssl 1.1.0 到 1.0.0
-安装盘
+* 启动时的 initrd
 
+* 切换openssl 1.1.0 到 1.0.0
 
-
-
+* 安装盘
